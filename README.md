@@ -133,44 +133,12 @@
 MIT License © 2024 [SHYN](https://github.com/let-shyn-cook)
 
 <div align="center">
-  <div class="thank-you">
-    Made with ❤️ by <a href="https://github.com/let-shyn-cook">SHYN</a>
-  </div>
-  
-  <div class="wave">
-    👋 Cảm ơn bạn đã ghé thăm!
-  </div>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=false&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+SHYN" alt="Made with love" />
+  </h3>
+
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=36BCF7FF&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%8B+C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+gh%C3%A9+th%C4%83m!" alt="Thank you" />
+  </p>
+
 </div>
-
-<style>
-.thank-you {
-  margin: 20px 0;
-  font-size: 1.2em;
-  animation: pulse 2s infinite;
-}
-
-.wave {
-  animation: wave 2.5s infinite;
-  transform-origin: 70% 70%;
-  display: inline-block;
-  margin-top: 15px;
-  color: #666;
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
