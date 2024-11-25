@@ -64,8 +64,8 @@
 ## 📥 Video Demo
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/let-shyn-cook/anaconda-install-in-ubuntu/main/video/demo-install.mp4">
-    <img src="https://raw.githubusercontent.com/let-shyn-cook/anaconda-install-in-ubuntu/main/images/preview.gif" alt="Demo Video" width="800px"/>
+  <a href="https://github.com/let-shyn-cook/anaconda-install-in-ubuntu/blob/main/video/demo-install.mp4">
+    <img src="https://github.com/let-shyn-cook/anaconda-install-in-ubuntu/blob/main/image/preview.gif" alt="Demo Video" width="800px"/>
   </a>
 </div>
 
