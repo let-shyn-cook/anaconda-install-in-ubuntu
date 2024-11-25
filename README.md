@@ -1,44 +1,13 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" width="400px" alt="logo">
 
-# 🐍 Anaconda Installer for Ubuntu
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2ECC40&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%90%8D+Anaconda+Installer" alt="Typing SVG" />
+</h1>
 
-<div class="typewriter">
-  <span id="text">🚀 Script cài đặt Anaconda tự động với giao diện đẹp mắt cho Ubuntu</span>
-</div>
-
-<style>
-.typewriter {
-  min-height: 50px;
-  padding: 10px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.typewriter span {
-  color: #36454F;
-  font-size: 1.1em;
-  font-weight: 500;
-  border-right: 2px solid #000;
-  animation: typing 4s steps(50) infinite,
-             cursor .4s step-end infinite alternate;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-@keyframes cursor {
-  50% { border-color: transparent; }
-}
-
-@keyframes typing {
-  0% { width: 0; }
-  50% { width: 100%; }
-  55% { width: 100%; }
-  65% { width: 0; }
-  100% { width: 0; }
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4AB&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Script+c%C3%A0i+%C4%91%E1%BA%B7t+Anaconda+t%E1%BB%B1+%C4%91%E1%BB%99ng+v%E1%BB%9Bi+giao+di%E1%BB%87n+%C4%91%E1%BA%B9p+m%E1%BA%AFt" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <a href="https://github.com/let-shyn-cook/anaconda-install-in-ubuntu/stargazers">
@@ -95,14 +64,16 @@
 ## 📥 Video Demo
 
 <div align="center">
-  <video width="100%" controls>
-    <source src="video/demo-install.mp4" type="video/mp4">
-  </video>
+  <a href="https://raw.githubusercontent.com/let-shyn-cook/anaconda-install-in-ubuntu/main/video/demo-install.mp4">
+    <img src="https://raw.githubusercontent.com/let-shyn-cook/anaconda-install-in-ubuntu/main/images/preview.gif" alt="Demo Video" width="800px"/>
+  </a>
 </div>
 
 ### 🎯 Nội dung demo:
 - 📥 Cài đặt Anaconda từ A-Z
+- 🗑️ Gỡ cài đặt sạch sẽ
 - 🎮 Preview các tính năng chính
+- 💡 Tips và lưu ý khi sử dụng
 
 ## 📥 Hướng Dẫn Cài Đặt
 
