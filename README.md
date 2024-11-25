@@ -71,10 +71,7 @@
 
 ### 🎯 Nội dung demo:
 - 📥 Cài đặt Anaconda từ A-Z
-- 🗑️ Gỡ cài đặt sạch sẽ
 - 🎮 Preview các tính năng chính
-- 💡 Tips và lưu ý khi sử dụng
-
 ## 📥 Hướng Dẫn Cài Đặt
 
 <div align="center">
